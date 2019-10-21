@@ -1,0 +1,1 @@
+This repo contains a simple example to illustrate a bug found in IntelliJ that prevents dependency resolution when using the takari builder maven plugin.
